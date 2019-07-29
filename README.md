@@ -1,2 +1,2 @@
 # BlackTech
-Projet e-commerce / marketing
+e-commerce / marketing project
