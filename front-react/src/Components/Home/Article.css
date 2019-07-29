@@ -1,0 +1,36 @@
+.containerArticle {
+    width: 60%;
+    margin: 2% auto auto auto;
+}
+
+.cardBody {
+    background-color: whitesmoke;
+    /* width: 200px;
+    height: 200px; */
+}
+
+.cardFooter {
+    background-color: gainsboro;
+}
+
+.cardDescription {
+    height: 120px;
+}
+
+.titleSize {
+    height: 40px;
+}
+
+.pagination {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
+
+footer {
+	padding: 40px;
+	background-color:rgb(255, 255, 255);
+    text-align:center;
+    border-top: black 10px solid;
+}

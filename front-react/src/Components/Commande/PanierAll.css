@@ -1,0 +1,8 @@
+.menu {
+    max-height: 48 * 4.5;
+    width: 200
+}
+
+.nostyle:hover {
+    text-decoration: none;
+}

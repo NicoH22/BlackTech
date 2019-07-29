@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Fjalla One', sans-serif;
+    src: url('https://fonts.googleapis.com/css?family=Fjalla+One&display=swap');
+}
+
+.BoxPop{
+    border: 2px solid black;
+    width: 20%;
+display:inline-table;
+    float: right;
+}
+
+.imgPop {
+    width: 200px;
+    margin: auto;
+}
+
+.titlePop {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Fjalla One';
+}
+
+.containerPop {
+    text-align: center;
+    margin: 50px 0 50px 0;
+}
+
+.titlePopspace {
+    height: 50px;
+}
+
+.stylePop{
+    border: 2px black solid;
+    box-shadow: 1px 1px 10px 10px #a1a3b7;
+}
